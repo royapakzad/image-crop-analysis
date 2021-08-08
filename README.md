@@ -1,6 +1,6 @@
 # Image Crop Analysis
 
-This is an experiment on Twitter's Image Cropping Algorithm, take a look at [the main repository](https://github.com/twitter-research/image-crop-analysis) from Twitter Reserach team. The result was submitted for [Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge)
+This is an experiment on Twitter's Saliency (or Image Cropping) Algorithm. Take a look at [the main repository](https://github.com/twitter-research/image-crop-analysis) from Twitter Reserach team. This experiment was submitted for [Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge)
 
 
 ## Title: 
