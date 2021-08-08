@@ -1,6 +1,6 @@
 # Image Crop Analysis
 
-This is an experiment on Twitter's Saliency (or Image Cropping) Algorithm. Take a look at [the main repository](https://github.com/twitter-research/image-crop-analysis) from Twitter Reserach team. This experiment was submitted for [Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge).
+This is an experiment on Twitter's Saliency (Image Cropping) Algorithm. Take a look at [the main repository](https://github.com/twitter-research/image-crop-analysis) from Twitter Reserach team. This experiment was submitted for [Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge).
 
 
 ## Title: 
@@ -117,13 +117,13 @@ Supporting Material/References:
 
 ### Self-Grading Recommendation: 
 Description of Harm
-* Harm Base Score:** [20]  [This is unintentional underrepresentation harm affecting Twitter users who communicate mainly in Arabic-script languages. The harm may also include erasure and mis-recognition. ]
-* Affected Users: ** [1.2]  [There are no public statistics about the exact number of Twitter users who use Arabic-script languages. However, there are more than 660 million people in the world who write in Arabic scripts. Therefore I chose 1.2 as the multiplying score]
-* Likelihood or Exploitability: ** [1.1]  [I gave a score only for the likelihood of the issues described above happening monthly for Twitter users when the actual harm is visible. A brief explanation on exploitability: in intentional exploitation one might use biased cropping to intentionally hide or highlight part of the text or objects in memes and text-overlayed images by adding hateful Arabic text that may go unnoticed, adding/removing/changing watermark position and color intensity, and other forms of artistic modification]
-* Justification: ** [1.25]  [In the discussion I cited various literature supporting why paying attention to linguistic diversity is important in the context of cropping memes and other text-overlayed images. ]
-* Clarity: ** [1.25]  [I added a limitations section describing the scope of the experiment and what is not included. In other sections, I made concrete recommendations for Twitter’s teams to build on this trial study.]
-* Creativity: ** [1]  [I used standard data-based input/output testing that is a common method in auditing algorithms. However, the emphasis on memes, while not entirely novel, does show a forward-thinking approach.]
-* Total Score: ** (20)x[1.2+1.2+1.1+1.25+1.25)
+* Harm Base Score: [20]  [This is unintentional underrepresentation harm affecting Twitter users who communicate mainly in Arabic-script languages. The harm may also include erasure and mis-recognition. ]
+* Affected Users:  [1.2]  [There are no public statistics about the exact number of Twitter users who use Arabic-script languages. However, there are more than 660 million people in the world who write in Arabic scripts. Therefore I chose 1.2 as the multiplying score]
+* Likelihood or Exploitability:  [1.1]  [I gave a score only for the likelihood of the issues described above happening monthly for Twitter users when the actual harm is visible. A brief explanation on exploitability: in intentional exploitation one might use biased cropping to intentionally hide or highlight part of the text or objects in memes and text-overlayed images by adding hateful Arabic text that may go unnoticed, adding/removing/changing watermark position and color intensity, and other forms of artistic modification]
+* Justification:  [1.25]  [In the discussion I cited various literature supporting why paying attention to linguistic diversity is important in the context of cropping memes and other text-overlayed images. ]
+* Clarity:  [1.25]  [I added a limitations section describing the scope of the experiment and what is not included. In other sections, I made concrete recommendations for Twitter’s teams to build on this trial study.]
+* Creativity:  [1]  [I used standard data-based input/output testing that is a common method in auditing algorithms. However, the emphasis on memes, while not entirely novel, does show a forward-thinking approach.]
+* Total Score:  (20)x[1.2+1.2+1.1+1.25+1.25)
 
 
 
