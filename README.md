@@ -16,7 +16,7 @@ By analyzing 200 memes, my submission seeks to understand how Twitter's saliency
 
 #### Experiment 1
 
-For experiment 1, I used [imgflip.com](imgflip.com) to create 3 groups of English-only, Arabic-only, and English+Arabic memes. Each group has 40 memes with unique texts. I first chose 40 English-only memes as "seeds," then translated those texts into Arabic and created 40 identical Arabic memes which maintain the original meme's image ratio, resolution, font size, and color. For the third group I chose to make half Arabic, and half English memes.  
+For experiment 1, I used [imgflip.com](https://imgflip.com/) to create 3 groups of English-only, Arabic-only, and English+Arabic memes. Each group has 40 memes with unique texts. I first chose 40 English-only memes as "seeds," then translated those texts into Arabic and created 40 identical Arabic memes which maintain the original meme's image ratio, resolution, font size, and color. For the third group I chose to make half Arabic, and half English memes.  
 
 The following images are examples of English-only (marked as *en.jpeg in the data file), Arabic-only (marked as *ar.jpeg in the data file), and English+Arabic (marked as *enar.jpeg in the data file) memes.  
 
