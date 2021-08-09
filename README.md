@@ -99,9 +99,7 @@ I’m closing this section with a quote from [*Memes to Movements*](https://www.
 ### Limitations
 **Small dataset**: In my experiment, I only used 40 commonly-used “seed” memes to create (overall) 200 memes to feed the algorithm and conduct qualitative and quantitative analysis. Although the results have shown a significant difference in favoring English text over Arabic text, further analysis with a larger dataset is recommended. 
 
-**Controlled experiment**: Despite the fact that I tried to keep other factors such as image size, color density, text position, font size, color, opacity, etc. the same, I still think there needs to be a more controlled experiment to come up with definitive answers about biases of the cropping algorithm in multi-lingual text-overlayed images. 
-
-**Cursive writing**:  Both Arabic and English texts are typed in non-cursive fonts. More experiments can show whether cursive or other font forms will change the algorithm preference in cropping the English side or the Arabic side. 
+**Controlled experiment**: Despite the fact that I tried to keep other factors such as image size, color density, text position, font size, color, opacity, etc. the same, I still think there needs to be a more controlled experiment to come up with definitive answers about biases of the cropping algorithm in multi-lingual text-overlayed images. In addition, both Arabic and English texts are typed in non-cursive fonts. More experiments can show whether cursive or other font forms will change the algorithm preference in cropping the English side or the Arabic side. 
 
 **Qualitative analysis**: Most qualitative analyses on social media experiences need a form of semi-structured or unstructured interviews with actual users. My own experience as a native Farsi writer/reader with intermediate knowledge of Arabic was helpful in understanding common experiences. However, more shared stories are required to understand the types and magnitude of actual harms. 
 
