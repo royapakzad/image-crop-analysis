@@ -2,7 +2,7 @@
 
 This is an experiment on Twitter's Saliency (Image Cropping) Algorithm. Take a look at [the main repository](https://github.com/twitter-research/image-crop-analysis) from Twitter Reserach team. This experiment was submitted for [Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge).
 
-### This project is the 3rd place winner for Twitter’s algorithmic bias bounty challenge: https://twitter.com/TwitterEng/status/1424819783736860672?s=20
+#### This project is the 3rd place winner for Twitter’s algorithmic bias bounty challenge: https://twitter.com/TwitterEng/status/1424819783736860672?s=20
 
 ## Title: 
 **Gazing at the Mother Tongue: Analyzing Twitter's Image Cropping Algorithm on Bilingual Memes**
