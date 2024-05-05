@@ -1,8 +1,8 @@
 # Image Crop Analysis
 
-This is a bug bounty experiment on Twitter's Saliency (Image Cropping) Algorithm. Take a look at [the main repository](https://github.com/twitter-research/image-crop-analysis) from Twitter Reserach team. This experiment won the third place in [Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge).
+This is an entry to Twitter's bug bounty challenge for Saliency (Image Cropping) Algorithm. Take a look at [the main repository](https://github.com/twitter-research/image-crop-analysis) from Twitter Reserach team. 
 
-#### This project is the 3rd place winner for Twitter’s algorithmic bias bounty challenge, read here: https://royapakzad.substack.com/p/gazing-at-the-mother-tongue-854c9e89b422 
+#### This experiment won the third place in [Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge), and the Substack post: https://royapakzad.substack.com/p/gazing-at-the-mother-tongue-854c9e89b422 
 
 ## Title: 
 **Gazing at the Mother Tongue: Analyzing Twitter's Image Cropping Algorithm on Bilingual Memes**
